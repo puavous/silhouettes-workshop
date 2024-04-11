@@ -1,0 +1,3 @@
+[submodule "lmad1"]
+	path = lmad1
+	url = https://github.com/puavous/lmad1
