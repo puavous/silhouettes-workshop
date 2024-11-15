@@ -12,10 +12,7 @@ Welcome to create some cool graphics together! Student instructions are simple:
 
 1. Follow the local instructions given by your workshop teacher.
 
-2. Wait until the workshop teacher forks the blank example repo and makes preparations
-depending on the number of people and groups present today.
-
-3. After teacher's preparation and instructions, one participant of each group
+2. After teacher's preparation and instructions, one participant of each group
    would be the coder who clones the starter pack with lmad1 library:
 
    ```
@@ -25,22 +22,9 @@ depending on the number of people and groups present today.
    where URL is in fact a fork of the starter code - a specific fork for which
    the teacher has given read/write premissions to the selected coders.
    
-4. You will now jointly create a new artistic masterpiece.
+3. Each group will then create their own part of a new artistic masterpiece.
 
-   Others will work with the coder so that each group gets a cool visual for
-   their part of the show. Important things in supporting roles:
-
-   - Discuss artistic ideas
-
-   - Draft ideas on paper
-
-   - Work with the math as needed, like coordinates, loop indices, radian degrees ...
-
-   - Search the web for help about Javascript, math, geometry, ...
-
-   - Live-spot mistakes and "thinkos" that the coder is likely to do regularly (kin to pair-programming)
-
-5. At the end of the workshop, merge versions, and enjoy the parts combined on
+4. At the end of the workshop, merge versions, and enjoy the parts combined on
    the big screen of your auditorium.
 
 ## Instructions for the workshop teacher
@@ -60,6 +44,25 @@ You do what you want, using your local systems - here is an example using our lo
 6. Run, run, between the groups, giving help with programming, math, git, all surprising details that will unexpectedly turn up. ( My future TODO: One slide that recites '2*Math.PI' and 'for (var i=1; i<10; i++)' and other useful stuff that can be used)
 
 7. Instruct merging and viewing the result once in-between and once at the end. Allow time for discussion.
+
+## Example schedule
+
+The following 2-hour pacing seems doable with a prepared teacher and students already familiar with command line git. Example happening at 10am:
+
+~~~
+    10:15 Sit down in groups, log into computers, Meet & greet
+    10:20 Concept presentation: demoscene, intro, example code package
+    10:40 Fork project, assign dev rights, clone & examine example
+    10:45 Intense groupwork for 30 minutes
+    11:15 Synchronize versions (commit, pull, push)
+          making sure there will be no issues with final merge
+    11:20 Intense groupwork for 30 minutes
+    11:45 Synchronize versions again, and admire the production on screen
+    11:50 Comments round and open discussion
+    12:00 Bye.
+~~~
+
+
 
 ## Future plans
 
